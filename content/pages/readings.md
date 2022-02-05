@@ -22,30 +22,294 @@ In addition, we will be viewing Ken Burns’s renowned documentary [_The Civil W
 {{< anchor "Session" >}}{{< /anchor >}}Readings by Session
 ----------------------------------------------------------
 
-| Lec # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | McPherson, James. _Battle Cry of Freedom._ New York, NY: Oxford University Press, 1988, 2003. ISBN: 9780195168952.  {{< br >}}  {{< br >}}Donald, David, ed. _Why the North Won the Civil War._ New York, NY: Collier, 1962. |
-| 2 | Film: Ken Burns. _The Civil War._ Episode 1, "The Cause" | McPherson, James. _Battle Cry of Freedom._ New York, NY: Oxford University Press, 1988, 2003, pp. 3-275. ISBN: 9780195168952. (Pay close attention to pp. 3-46.) |
-| 3 | Lecture: Why the War Came; How Well Were the Sides Prepared? |  |
-| 4 | Reading Period |  |
-| 5 | Class Discussion of Donald's Book (Discussion will be Framed Around Student Reflection Papers) |  |
-| 6 | Film: _The Civil War._ Episode 2, "1862 - A Very Bloody Affair" | McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 276-427. ISBN: 9780195168952. |
-| 7 | Lecture: Dr. Brendan Foley. "The Civil War at Sea" |  |
-| 8 | Film: _The Civil War._ Episode 3, "Forever Free, 1862" | McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 428-567. ISBN: 9780195168952. |
-| 9 | Discussion (Framed Around Reflection Papers) |  |
-| 10 | Film: _The Civil War._ Episode 4, "Simply Murder, 1863" | McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 568-665. ISBN: 9780195168952.  {{< br >}}  {{< br >}}Shaara, Michael. _The Killer Angels._ New York, NY: Ballantine, 1987, 1993. ISBN: 9780345348104. |
-| 11 | Lecture: "The Impact of New Weapons Technologies" |  |
-| 12 | Film: _The Civil War._ Episode 5, "The Universe of Battle, 1863" |  |
-| 13 | Discussion (Framed Around Reflection Papers) |  |
-| 14 | Lecture: "Roads, Rails, and Waterways: Their Significance in the Civil War" | McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 666-717. ISBN: 9780195168952. |
-| 15 | Reading Period (Watkins, Sam. _Company Aytch_) | Watkins, Sam R. _Company Aytch: A Confederate’s Memoir of the Civil War, 1882._ New York, NY: Touchstone, 1997, 2003. ISBN: 9780743255417. |
-| 16 | Discussion of Watkins and Life in the Ranks (Framed Around Reflection Papers) |  |
-| 17 | Film: _The Civil War._ Episode 6, "The Valley of the Shadow of Death, 1864" | McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 718-50. ISBN: 9780195168952. |
-| 18 | Film: _The Civil War._ Episode 7, "Most Hallowed Ground, 1864" | McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 751-806. ISBN: 9780195168952. |
-| 19 | Lecture: "Was the Civil War America's 'Defining Moment'?" |  |
-| 20 | Film: _The Civil War._ Episode 8, "War is All Hell, 1865" | McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 807-862. ISBN: 9780195168952. |
-| 21 | Discussion: "Who Got it Right?" |  |
-| 22 | Film: _The Civil War._ Episode 9, "The Better Angels of Our Nature, 1865"  {{< br >}}  {{< br >}}Wrap-up |  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+McPherson, James. _Battle Cry of Freedom._ New York, NY: Oxford University Press, 1988, 2003. ISBN: 9780195168952.  
+  
+Donald, David, ed. _Why the North Won the Civil War._ New York, NY: Collier, 1962.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Film: Ken Burns. _The Civil War._ Episode 1, "The Cause"
+{{< tdclose >}}
+{{< tdopen >}}
+McPherson, James. _Battle Cry of Freedom._ New York, NY: Oxford University Press, 1988, 2003, pp. 3-275. ISBN: 9780195168952. (Pay close attention to pp. 3-46.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Why the War Came; How Well Were the Sides Prepared?
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Period
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Class Discussion of Donald's Book (Discussion will be Framed Around Student Reflection Papers)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _The Civil War._ Episode 2, "1862 - A Very Bloody Affair"
+{{< tdclose >}}
+{{< tdopen >}}
+McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 276-427. ISBN: 9780195168952.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: Dr. Brendan Foley. "The Civil War at Sea"
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _The Civil War._ Episode 3, "Forever Free, 1862"
+{{< tdclose >}}
+{{< tdopen >}}
+McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 428-567. ISBN: 9780195168952.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion (Framed Around Reflection Papers)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _The Civil War._ Episode 4, "Simply Murder, 1863"
+{{< tdclose >}}
+{{< tdopen >}}
+McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 568-665. ISBN: 9780195168952.  
+  
+Shaara, Michael. _The Killer Angels._ New York, NY: Ballantine, 1987, 1993. ISBN: 9780345348104.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: "The Impact of New Weapons Technologies"
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _The Civil War._ Episode 5, "The Universe of Battle, 1863"
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion (Framed Around Reflection Papers)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: "Roads, Rails, and Waterways: Their Significance in the Civil War"
+{{< tdclose >}}
+{{< tdopen >}}
+McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 666-717. ISBN: 9780195168952.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Reading Period (Watkins, Sam. _Company Aytch_)
+{{< tdclose >}}
+{{< tdopen >}}
+Watkins, Sam R. _Company Aytch: A Confederate’s Memoir of the Civil War, 1882._ New York, NY: Touchstone, 1997, 2003. ISBN: 9780743255417.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Watkins and Life in the Ranks (Framed Around Reflection Papers)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _The Civil War._ Episode 6, "The Valley of the Shadow of Death, 1864"
+{{< tdclose >}}
+{{< tdopen >}}
+McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 718-50. ISBN: 9780195168952.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _The Civil War._ Episode 7, "Most Hallowed Ground, 1864"
+{{< tdclose >}}
+{{< tdopen >}}
+McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 751-806. ISBN: 9780195168952.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture: "Was the Civil War America's 'Defining Moment'?"
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _The Civil War._ Episode 8, "War is All Hell, 1865"
+{{< tdclose >}}
+{{< tdopen >}}
+McPherson, James. _Battle Cry of Freedom_. New York, NY: Oxford University Press, 1988, 2003, pp. 807-862. ISBN: 9780195168952.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion: "Who Got it Right?"
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _The Civil War._ Episode 9, "The Better Angels of Our Nature, 1865"  
+  
+Wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 

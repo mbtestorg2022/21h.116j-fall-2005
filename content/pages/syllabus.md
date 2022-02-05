@@ -37,9 +37,38 @@ This class will operate more like a reading seminar than a traditional lecture c
 
 In addition to the reflection papers, there will be two (2) reading quizzes during the term. The final grade will be determined as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Reflection Papers | 50% |
-| Quizzes | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reflection Papers
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Note: Regular attendance, participation, and a good attitude are essential. Without all three, you will not get much out of this course. Attendance will be taken and poor attendance will result in severe final grade penalties. Class participation is particularly important because it can determine your final grade in borderline situations.
